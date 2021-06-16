@@ -1,2 +1,2 @@
-# Image-to-pencil-sketch-
+# Image-to-pencil-sketch
 using open CV Python
